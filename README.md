@@ -3,5 +3,5 @@
 ## Templates
 - [Paint](https://github.com/hexters/paint)
 
-## Packages
+## Modules
 - [Ladmin Storage](https://github.com/hexters/ladmin-storage)
